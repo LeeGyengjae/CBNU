@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Mar 12 20:39:17 2024
+
+@author: Lenovo
+"""
+
+for i in[1,2,3]:
+    print(i)
