@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 9
+names: ['Capacitor', 'Diode', 'EMC filter', 'IC', 'Inductor', 'Mosfet', 'Register', 'Soldering', 'led']
+
+roboflow:
+  workspace: aoiyolo-yid71
+  project: aoiyolo
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/aoiyolo-yid71/aoiyolo/dataset/4

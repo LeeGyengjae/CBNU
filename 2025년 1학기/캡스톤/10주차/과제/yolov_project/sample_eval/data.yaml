@@ -1,0 +1,5 @@
+path: sample_eval
+train: images  # dummy path for requirement
+val: images
+nc: 9
+names: ['Capacitor', 'Diode', 'EMC filter', 'IC', 'Inductor', 'Mosfet', 'Register', 'Soldering', 'led']
